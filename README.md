@@ -7,6 +7,7 @@
 <h2 align = "center"> Languages </h2>
 <div align = "center"> 
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title = "C" alt = "C" width = "35" height = "35"/> &nbsp;
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title = "Java" alt = "Java" width = "35" height = "35"/> &nbsp;
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title = "MATLAB" alt = "MATLAB" width = "35" height = "35"/> &nbsp;
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title = "Python" alt = "Python" width = "35" height = "35"/> &nbsp;
 </div>
@@ -21,7 +22,7 @@
 <h2 align = "center"> Stats </h2>
 <div align = "center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=emirroguz&&layout=compact&locale=en&show_icons=true&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=emirroguz&layout=compact&locale=en&show_icons=true&theme=github_dark)
   </br>
   </br>
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirroguz&count_private=true&hide=contribs,issues&include_all_commits=true&theme=github_dark)
