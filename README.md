@@ -28,5 +28,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirroguz&layout=compact&locale=en&show_icons=true&theme=github_dark&hide=jupyter%20notebook" alt="Top Langs"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=emirroguz&count_private=true&hide=contribs,issues&include_all_commits=true&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emirroguz&count_private=true&hide=issues,stars&include_all_commits=true&theme=github_dark" alt="GitHub Stats"/>
 </div>
